@@ -100,6 +100,9 @@ h3 {
   .lead {
     margin-top: 15px;
   }
+  .blog {
+    margin-left: 0.2rem;
+  }
 }
 @media (min-width: 1200px) {
   .flex {
@@ -114,5 +117,8 @@ h3 {
     width: 400px;
     padding: 10px;
     font-size: 1.2rem;
+  }
+  .blog {
+    margin-left: 0.2rem;
   }
 }
